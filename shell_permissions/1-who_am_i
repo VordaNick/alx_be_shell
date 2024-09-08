@@ -1,2 +1,2 @@
 #!/bin/bash
-print current user
+:echo $USER
